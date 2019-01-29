@@ -1,0 +1,9 @@
+{
+    "fileName":"a.txt",
+    "replaceList":[
+        {
+            "target_value": "44454647",
+            "new_value": "44434241"
+        }
+    ]
+}
